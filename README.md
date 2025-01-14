@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Projets en Cours
+## 🚀 Projets Terminer :
 - **Todo List** : Une application pour organiser mes tâches.
 - **Mini-Blog** : Un blog minimaliste pour apprendre la gestion des données.
 - **Future Projet React** : Un gestionnaire de recettes avec React.
