@@ -4,14 +4,14 @@
 
 ---
 
-## 🎯 Objectifs Actuels
+## 🎯 Objectifs Terminer
 ### Formation JavaScript
 - Maîtriser les bases : types, fonctions, objets, classes, etc.
 - Manipuler le DOM pour créer des interfaces interactives.
 - Comprendre la programmation asynchrone avec Promises et `async/await`.
 - Construire des projets comme une **todo list** ou un **mini-blog**.
 
-### Formation React (à venir)
+### Formation React (en cours)
 - Comprendre les bases de React : composants, props, et state.
 - Construire des interfaces dynamiques et réactives.
 - Découvrir l’écosystème React : React Router, Context API, etc.
@@ -35,7 +35,7 @@
 
 ## 🛠️ Technologies et outils
 - **Langages** : JavaScript (ES6+), HTML5, CSS3.
-- **Framework** : React (à venir).
+- **Framework** : React .
 - **Outils** : VS Code, Git, GitHub, Chrome DevTools.
 
 ---
