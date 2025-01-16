@@ -47,3 +47,4 @@
 
 📩 **Contactez-moi** :
 Si vous souhaitez collaborer ou discuter développement, envoyez-moi un message !
+e-mail : floriangeorges68balgau@gmail.com
